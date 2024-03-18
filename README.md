@@ -1,16 +1,20 @@
-### Hi there 👋
+### Skills and Technologies
 
-<!--
-**DavAnders/DavAnders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Currently Proficient In:
+- **Python**
+- **Golang**
+- **C++** (primarily used while working in Unreal Engine)
+- **JavaScript**
 
-Here are some ideas to get you started:
+#### Actively Learning:
+- **HTML & CSS**: improving front-end design skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools and Services I'm Familiar With:
+- **Docker**: Leveraging containers to ensure development and production parity.
+- **PostgreSQL**: Fundamental understanding of database management and operations.
+- **Cloud Services**: Familiarity with cloud-based infrastructure to support scalable applications.
+- **Development Practices**: Knowledgeable in modern development practices, including version control, code review, and continuous integration/continuous deployment (CI/CD) principles.
+
+### Focus Areas
+- Aiming to deepen my expertise in full-stack development through continuous learning and practical application.
+- Committed to understanding and applying industry best practices to enhance software quality and development efficiency.

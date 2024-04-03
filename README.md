@@ -8,7 +8,7 @@
 - **HTML & CSS**
 
 #### Actively Learning:
-- **Ruby on Rails**
+- **Node/React**
 
 #### Tools and Services I'm Familiar With:
 - **Docker**: Leveraging containers to ensure development and production parity.

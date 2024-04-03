@@ -5,9 +5,10 @@
 - **Golang**
 - **C++** (primarily used while working in Unreal Engine)
 - **JavaScript**
+- **HTML & CSS**
 
 #### Actively Learning:
-- **HTML & CSS**: improving front-end design skills.
+- **Ruby on Rails**
 
 #### Tools and Services I'm Familiar With:
 - **Docker**: Leveraging containers to ensure development and production parity.

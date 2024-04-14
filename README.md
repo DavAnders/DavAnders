@@ -1,6 +1,6 @@
 ### Skills and Technologies
 
-#### Currently Proficient In:
+#### I dabble around with:
 - **Python**
 - **Golang**
 - **C++** (primarily used while working in Unreal Engine)
@@ -10,12 +10,7 @@
 #### Actively Learning:
 - **Node/React**
 
-#### Tools and Services I'm Familiar With:
-- **Docker**: Leveraging containers to ensure development and production parity.
-- **PostgreSQL**: Fundamental understanding of database management and operations.
-- **Cloud Services**: Familiarity with cloud-based infrastructure to support scalable applications.
-- **Development Practices**: Knowledgeable in modern development practices, including version control, code review, and continuous integration/continuous deployment (CI/CD) principles.
-
 ### Focus Areas
+- Continuing my knowledge on tools I've used (Kubernetes, Docker, PostgreSQL, Cloud services) to create easy dev and user environments.
 - Aiming to deepen my expertise in full-stack development through continuous learning and practical application.
-- Committed to understanding and applying industry best practices to enhance software quality and development efficiency.
+- Always learning something new in areas that are relevant (Crytography, DSA, CI/CD)

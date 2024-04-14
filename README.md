@@ -8,7 +8,7 @@
 - **HTML & CSS**
 
 #### Actively Learning:
-- **Node/React**
+- **React**
 
 ### Focus Areas
 - Continuing my knowledge on tools I've used (Kubernetes, Docker, PostgreSQL, Cloud services) to create easy dev and user environments.

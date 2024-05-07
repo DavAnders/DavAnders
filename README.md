@@ -2,11 +2,10 @@
 
 #### I dabble around with:
 - **Python**
-- **Golang**
+- **Golang** 
 - **C++** (primarily used while working in Unreal Engine)
-- **JavaScript**
+- **JavaScript** - experience with MongoDB, Express, React, Node.js (MERN stack)
 - **HTML & CSS**
-- **React**
 
 ### Focus Areas
 - Continuing my knowledge on tools I've used (Kubernetes, Docker, PostgreSQL, MongoDB, Cloud services) to create easy dev and user environments.

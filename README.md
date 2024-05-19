@@ -1,11 +1,10 @@
 ### Skills and Technologies
 
-#### I dabble around with:
+#### I have worked with:
 - **Python**
-- **Golang** 
+- **Golang**
 - **C++** (primarily used while working in Unreal Engine)
-- **JavaScript** - experience with MongoDB, Express, React, Node.js (MERN stack)
-- **HTML & CSS**
+- **JavaScript / HTML / CSS** - experience with MongoDB, Express, React, Node.js (MERN stack)
 
 ### Focus Areas
 - Continuing my knowledge on tools I've used (Kubernetes, Docker, PostgreSQL, MongoDB, Cloud services) to create easy dev and user environments.
